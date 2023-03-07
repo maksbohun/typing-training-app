@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/typing-training-app/static/css/main.4d9b883b.css",
+    "main.js": "/typing-training-app/static/js/main.37d7f411.js",
+    "static/media/typing-training.gif": "/typing-training-app/static/media/typing-training.6c9a78309a54918702a4.gif",
+    "static/media/jim-carrey-typing.gif": "/typing-training-app/static/media/jim-carrey-typing.bb0f7d7d38eabb655e27.gif",
+    "static/media/cat-typing.gif": "/typing-training-app/static/media/cat-typing.288719684ef58388cfe8.gif",
+    "static/media/command.svg": "/typing-training-app/static/media/command.3f627ab8dc4811edc3c2c4731e71ff24.svg",
+    "index.html": "/typing-training-app/index.html",
+    "static/media/star-filled.svg": "/typing-training-app/static/media/star-filled.a94cfe9fcd5eec09b915f76df8ce536f.svg",
+    "static/media/star.svg": "/typing-training-app/static/media/star.8b20c64653c770d906cf75144f69c540.svg",
+    "static/media/caret-left.svg": "/typing-training-app/static/media/caret-left.267a392486cd6c745438ecedfb591345.svg",
+    "static/media/caret-up.svg": "/typing-training-app/static/media/caret-up.3aa6a72b027cdcf2a871e37f2e545a55.svg",
+    "static/media/caret-right.svg": "/typing-training-app/static/media/caret-right.04cd1bafcc8bcdaf85c193a87b343302.svg",
+    "static/media/caret-down.svg": "/typing-training-app/static/media/caret-down.9466bf1166a83d972d7eadbc2c3b34eb.svg",
+    "main.4d9b883b.css.map": "/typing-training-app/static/css/main.4d9b883b.css.map",
+    "main.37d7f411.js.map": "/typing-training-app/static/js/main.37d7f411.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d9b883b.css",
+    "static/js/main.37d7f411.js"
+  ]
+}
