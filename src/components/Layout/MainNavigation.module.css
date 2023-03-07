@@ -1,0 +1,27 @@
+.navigation {
+  /* background-color: #faf9ff; */
+}
+
+/* #fef2e4  #faf9ff; #f4ebdb*/
+
+.list {
+  color: #000;
+  list-style: none;
+  display: flex;
+  gap: 4rem;
+  margin-left: 50%;
+  padding: 1rem;
+  transform: translateX(-50%);
+  justify-content: center;
+  font-size: 1.6rem;
+}
+
+.list a {
+  text-decoration: none;
+  color: #8e7970;
+}
+
+.list a:hover,
+.list a.active {
+  color: #000;
+}

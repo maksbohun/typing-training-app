@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel");
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.stopwatch {
+  font-size: 1.4rem;
+  font-family: "Abel", sans-serif;
+  height: 7rem;
+  width: 7rem;
+  border: 2px solid #fff;
+  color: #fff;
+  border-radius: 50%;
+  display: flex;
+  position: relative;
+}
+
+.time {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.button {
+  border: 2px solid #fff;
+  color: #fff;
+  justify-self: center;
+  font-weight: 600;
+  margin-top: 2rem;
+}

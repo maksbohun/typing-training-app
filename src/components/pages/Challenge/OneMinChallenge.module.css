@@ -1,0 +1,50 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+  width: 20rem;
+  margin: 0 auto;
+  margin-bottom: 1.6rem;
+  padding: 1rem;
+  border-radius: 10px;
+  gap: 1rem;
+}
+
+.word {
+  font-size: 1.6rem;
+  /* border: 1px solid #000; */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  padding: 1rem 1.6rem;
+  border-radius: 5px;
+  margin: 1rem;
+}
+
+.word-correct {
+  background-color: #74b816;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  margin-bottom: 1.4rem;
+  width: 7rem;
+}
+
+.timer {
+  display: inline-block;
+  margin-bottom: 1rem;
+  font-size: 1.4rem;
+  border: 1px solid #000;
+  padding: 0.2rem 0.4rem;
+  border-radius: 5px;
+}
+
+.correct-answers {
+  margin-bottom: -1rem;
+}

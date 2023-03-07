@@ -1,0 +1,28 @@
+.body {
+  min-height: 100vh;
+  background-color: #fbbe28;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.1rem;
+  margin: 1.6rem;
+  margin-top: 0;
+}
+
+.menu button {
+  justify-content: center;
+  align-items: center;
+  min-width: 10%;
+  padding: 0.7rem 0 0.7rem;
+}
+
+.input {
+  margin-bottom: 1rem;
+}
+
+.keyboard {
+  margin-top: 3rem;
+}

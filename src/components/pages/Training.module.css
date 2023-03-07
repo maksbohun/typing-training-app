@@ -1,0 +1,49 @@
+.body {
+  height: 100vh;
+  background-color: #00c4cc;
+}
+
+.header {
+  text-align: center;
+  padding: 2rem;
+  font-size: 1.6rem;
+}
+
+.list,
+.header {
+  margin: 0 auto;
+  justify-self: center;
+  max-width: 40%;
+}
+
+.list {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  list-style: none;
+  /* gap: 1rem; */
+  /* margin-bottom: 2rem; */
+}
+
+.level {
+  /* border: 1px solid #212529; */
+  text-align: center;
+  padding: 1rem 0;
+}
+
+.list button {
+  border-color: #212529;
+  width: 90%;
+}
+
+.list button:hover {
+  background-color: #04a0a5;
+}
+
+.back {
+  border-color: #1a1a1a;
+}
+
+.button-wrapper {
+  display: flex;
+  justify-content: center;
+}
